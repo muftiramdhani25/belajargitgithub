@@ -2,7 +2,8 @@
 
 ## Ini deskripsi
 
-- Abdul Halim
-- Ahda Dzia Ulhaq
-- Anbya Adzka
-- Ahnaf Muhammad Syamil
+- Muhammad Faiz Adli
+- Muhammad Azzam Albanna
+- Muhammad Arzu
+
+Ini kelasnya joss banget
